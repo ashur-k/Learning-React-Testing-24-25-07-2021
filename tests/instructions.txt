@@ -1,0 +1,18 @@
+STEP 1:- making directory with name tests
+STEP 2:- cd "ing" in directory
+STEP 3:- running command 'npm init -y' to setup package.json
+STEP 4:- npm install jest
+STEP 5:- creating file script.js
+STEP 6:- npm install --save-dev jest 
+            => This commands is to move jest devDependencies in package.json 
+
+
+To run scripts file where we have written code:
+    node script.js
+
+
+To run test we can
+  npm test
+
+To use fetch in scripts install 
+  npm install node-fetch

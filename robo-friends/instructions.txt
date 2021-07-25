@@ -1,0 +1,29 @@
+https://enzymejs.github.io/enzyme/
+
+npm i --save-dev enzyme enzyme-adapter-react-16
+
+Creating file setupTest.js    and adding following lines
+
+  import { configure } from 'enzyme';
+  import Adapter from 'enzyme-adapter-react-16';
+  configure({ adapter: new Adapter() });
+
+
+creating file card.test.js
+writng code to card.test.js
+runnning npm test,
+  npm test command is inside react-scripts package
+
+
+npm test -- --coverage
+  To generate coverage report
+
+
+Required for redux testing
+  npm install --save-dev redux-mock-store
+
+we can use nock to mock api url requests and give data that we are expecting from taht api url for testing
+google to know more about nock, or read this link https://www.npmjs.com/package/nock
+
+we can also use super test to test aPIS
+  https://www.npmjs.com/package/supertest

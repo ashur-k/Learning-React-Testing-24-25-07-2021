@@ -30,7 +30,7 @@ Clone this repo
 
 
 ### About Readme @Installations @About This Repo, @Purpose This 
-1.  Repo is written by Ashur Kanwal
+1.  Readme is written by Ashur Kanwal
 2.  About Codes I have clone codes from https://github.com/aneagoie/robofriends-pwa which were given to me by instructor [Anderi Neagoie](https://github.com/aneagoie). I have written similar codes while following along the videos in starting part of same course. (https://github.com/ashur-k/monsters-rolodex)
 
 ###### Thanks for Reading Ashur Kanwal
